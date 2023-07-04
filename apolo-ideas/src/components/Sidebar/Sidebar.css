@@ -6,18 +6,18 @@
 }
 
 .sidebar .logo{
-    width: 2rem;
-    height: 2rem;
+    width: 4rem;
+    height: 4rem;
 }
 
 .sidebar .new-idea{
-    background-color: var(--twitter-blue);
+    background-color: var(--medium-blue);
     border-radius: 9999px;
     padding: 1rem;
     display: flex;
     justify-content: center;
     width: 100%;
-    color: #FFF;
+    color: var(--dark-gray);
     font-size: 1.25rem;
     font-weight: 900;
     border: 0;
@@ -49,7 +49,7 @@
 }
 
 .main-navigation a.active{
-    color: var(--twitter-blue);
+    color: var(--medium-blue);
 }
 
 .main-navigation a svg{

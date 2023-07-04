@@ -5,12 +5,16 @@
 }
 
 :root{
-    --twitter-blue: #1da1f2;
+    --medium-blue: #1da1f2;
+    --dark-gray: #2C3333;
+    --medium-blue: #395B64;
+    --medium-blue: #A5C9CA;
+    --light-blue: #E7F6F2;
 }
 
 body{
-    color: #0f1419;
-    -webki-font-smoothing: antialiased;
+    color: var(--dark-gray);
+    -webkit-font-smoothing: antialiased;
 }
 
 body, input, textarea, button{

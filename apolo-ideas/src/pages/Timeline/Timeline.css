@@ -35,10 +35,10 @@ color: #5b7083;
 
 .new-idea-form button[type=submit]{
     margin-left: auto;
-    background: var(--twitter-blue);
+    background: var(--medium-blue);
     border-radius: 9999px;
     padding: 0.75rem 1.5rem;
-    color: #fff;
+    color: var(--dark-gray);
     font-size: 1rem;
     font-weight: 900;
     border: 0;
